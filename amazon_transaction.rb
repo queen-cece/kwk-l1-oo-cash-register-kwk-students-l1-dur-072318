@@ -4,9 +4,9 @@ class amazon
     @initialize = initialize
     @items = items
     @discount = discount
-end
+  end
 
-def total
+  def total
   return "#{total}"
 end
 end
