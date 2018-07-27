@@ -1,4 +1,5 @@
 # Code your cash register here
+
 class AmazonTransaction
   def initialize(total=0, items =[]) 
     @total = total
@@ -7,7 +8,3 @@ class AmazonTransaction
 
  
 end
-
-#def add_item(title, price)
-  
-  
