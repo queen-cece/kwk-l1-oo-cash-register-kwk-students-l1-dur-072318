@@ -10,3 +10,4 @@ def total
   return "#{total}"
 end
 
+def add_item(title, price)
