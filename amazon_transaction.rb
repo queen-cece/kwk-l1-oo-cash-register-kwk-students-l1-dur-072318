@@ -1,5 +1,5 @@
 # Code your cash register here
-class amazon
+class Amazon
   def initialize (total=0) 
     @initialize = initialize
     @items = items
