@@ -6,4 +6,5 @@ class AmazonTransaction
     @items = items
   end
 
+
 end
