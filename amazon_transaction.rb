@@ -16,6 +16,5 @@ class AmazonTransaction
     @total
   end
   
-  
 
 end
