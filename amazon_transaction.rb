@@ -5,3 +5,6 @@ class amazon
     @items = items
     @discount = discount
 end
+
+def total
+  return "#{"
