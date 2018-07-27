@@ -2,4 +2,5 @@
 class amazon
   def initialize (total) =0 
     @initialize = initialize
+    @items = items
 end
