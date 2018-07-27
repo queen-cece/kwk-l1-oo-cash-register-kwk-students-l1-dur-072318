@@ -16,5 +16,6 @@ class AmazonTransaction
     @total
   end
   
+  def add_item (title,price)
 
 end
