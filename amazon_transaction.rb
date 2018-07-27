@@ -8,7 +8,8 @@ class amazon
 
   def total
   return "#{total}"
-end
+  end
 end
 #def add_item(title, price)
+  
   
