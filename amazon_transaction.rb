@@ -1,1 +1,1 @@
-# Code your cash register here!
+# Code your cash register here
