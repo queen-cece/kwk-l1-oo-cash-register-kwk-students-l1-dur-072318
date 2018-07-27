@@ -8,5 +8,8 @@ class AmazonTransaction
     @discount = discount
   end
 
+  def discount
+    @discount
+  end
 
 end
