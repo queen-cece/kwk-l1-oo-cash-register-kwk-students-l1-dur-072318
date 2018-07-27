@@ -20,6 +20,7 @@ class AmazonTransaction
     @title = title
     @price = price
     @total +=price
+    @eggs = eggs
   end
   
 
