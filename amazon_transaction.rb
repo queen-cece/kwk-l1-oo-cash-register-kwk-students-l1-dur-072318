@@ -8,7 +8,7 @@ class Amazon
   end
 
   def total
-  return "#{total}"
+  return total
   end
 end
 
