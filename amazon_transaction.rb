@@ -1,5 +1,6 @@
 # Code your cash register here
 class Amazon
+  attr_accessor :amazon_transaction 
   def initialize (total=0) 
     @initialize = initialize
     @items = items
